@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35506.116 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Backend", "Fantasy.Backend\Fantasy.Backend.csproj", "{B615FCF8-704D-4BF3-981E-B880D766ED36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Frontend", "Fantasy.Frontend\Fantasy.Frontend.csproj", "{1D6F0597-B1BE-4D6C-9E03-57C940CB84BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B615FCF8-704D-4BF3-981E-B880D766ED36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B615FCF8-704D-4BF3-981E-B880D766ED36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B615FCF8-704D-4BF3-981E-B880D766ED36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6F0597-B1BE-4D6C-9E03-57C940CB84BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6F0597-B1BE-4D6C-9E03-57C940CB84BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6F0597-B1BE-4D6C-9E03-57C940CB84BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6F0597-B1BE-4D6C-9E03-57C940CB84BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
